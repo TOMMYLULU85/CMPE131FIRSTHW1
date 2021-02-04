@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 welcome to cmpe131
 another line
+=======
+I will ace this class!
+>>>>>>> new-branch
